@@ -1,0 +1,1 @@
+2020/08/06 02:03:28 [emerg] 5914#5914: open() "/home/jhazelwood/src/svelte/mime.types" failed (2: No such file or directory) in /home/jhazelwood/src/svelte/nginx.conf:6
